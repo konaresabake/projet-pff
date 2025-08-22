@@ -37,6 +37,16 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'lot',
+    'tache',
+    'rapport',
+    'chantier',
+    'budget',
+    'ressource',
+    'fournisseur',
+    'alert',
+    'utilisateur',
+    'projet',
     
 ]
 
